@@ -1,0 +1,117 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #222020b3
+
+}
+.container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+    
+.section01{
+    width: 100%;
+    height: 350px;
+    background: #a15ebd99;
+}
+.titlebox1{
+    width: 305px;
+    height: 155px;
+    float: left;
+    background: lightcoral;
+    margin: 10px;
+}
+.titlebox2{
+    width: 305px;
+    height: 155px;
+    float: left;
+    background: lightgreen;
+    margin: 10px;
+}
+.titlebox3{
+    width: 305px;
+    height: 155px;
+    float: left;
+    background: lightsalmon;
+    margin: 10px;
+}
+.titlebox4{
+    width: 305px;
+    height: 155px;
+    float: left;
+    background: lightseagreen;
+    margin: 10px;
+}
+.titlebox5{
+    width: 305px;
+    height: 155px;
+    float: left;
+    background: burlywood;
+    margin: 10px;
+}
+.titlebox6{
+    width: 305px;
+    height: 155px;
+    float: left;
+    background: skyblue;
+    margin: 10px;
+}
+.titlebox1 h1{
+                text-align: center;
+}
+.titlebox2 h1{
+                text-align: center;
+}
+.titlebox3 h1{
+                text-align: center;
+}
+.titlebox4 h1{
+                text-align: center;
+}
+.titlebox5 h1{
+                text-align: center;
+}
+.titlebox6 h1{
+                text-align: center;
+}
+.titlebox1 p {
+    margin-left: 15px;
+}
+.titlebox2 p {
+    margin-left: 15px;
+}
+.titlebox3 p {
+    margin-left: 15px;
+}
+.titlebox4 p {
+    margin-left: 15px;
+}
+.titlebox5 p {
+    margin-left: 15px;
+}
+.titlebox6 p {
+    margin-left: 15px;
+}
+section{
+    margin-top: 10px;
+    background-color: #a15ebd99;
+    min-height: 700px;
+}
+.imageBox{
+    
+    width: 33.33%;
+    height: 268px;
+    float: left;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.imageBox img{
+    width: 100%;
+    height: 100%;
+}
+section h1{
+    text-align: center;
+    font-size: 50px;
+    padding-top: 25px;
+}
